@@ -1,0 +1,5 @@
+https://etherscan.io/address/0x9b8e9d523d1d6bc8eb209301c82c7d64d10b219e#code  erc20 tx token
+https://etherscan.io/address/0x616ef40d55c0d2c506f4d6873bda8090b79bf8fc#contracts sniper tax contract
+https://etherscan.io/address/0x66a64a8a9cdc54ef97e45a051ba1c8f3d4b41a1d#code anti bot contract
+https://etherscan.io/address/0xA808B22ffd2c472aD1278088F16D4010E6a54D5F#contracts tax + reflexction
+https://bscscan.com/address/0x6590c5142a30b278d6a0688da865b9836cd50dc4#code staking contract example
